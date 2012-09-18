@@ -9,7 +9,7 @@ This version here is maintained by SeeMeCNC ~ John Oly ~ for using as a starting
 
 The configuration is now split in two files
 Configuration.h for the normal settings
-Configuration_adv.h for the advanced settings
+Configuration_adv.h for the advanced settings like digipot motor current and microstepping on the RAMBo boards
 
 Gen7T is not supported.
 
