@@ -1,6 +1,6 @@
 /* -*- c++ -*- */
 
-//Marlin for RAMBo boards
+//Marlin for RAMBo boards    See https://github.com/johnoly99 for origional FW
 
 /*
     Reprap firmware based on Sprinter and grbl.
